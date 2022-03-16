@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  patient_first_name: MyString
+  patient_last_name: MyString
+  date: 2022-03-16
+  time: 2022-03-16 12:16:22
+  kind: MyString
+
+two:
+  patient_first_name: MyString
+  patient_last_name: MyString
+  date: 2022-03-16
+  time: 2022-03-16 12:16:22
+  kind: MyString
